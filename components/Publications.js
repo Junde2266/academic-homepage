@@ -1,9 +1,5 @@
 import bibtexParse from "bibtex-parse-js";
 
-export default function App() {
-  return <Publications bibtex={bibtexData} boldAuthor="Junde Liu" />;
-}
-
 export default function Publications({ bibtex, boldAuthor }) {
   const parsed = bibtexParse.toJSON(bibtex);
 
