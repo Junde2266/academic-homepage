@@ -72,8 +72,8 @@ export default function AboutSection() {
           <Image
             src={personalInfo.profilePicture}
             alt="profile image"
-            width={120}
-            height={120}
+            width={150}
+            height={150}
             className="hidden md:block object-cover aspect-square"
           ></Image>
         )}
