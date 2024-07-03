@@ -18,7 +18,7 @@ export const websiteInfo = {
 };
 
 export const navigations = [
-  { name: 'Projects', route: '/projects' },
+  // { name: 'Projects', route: '/projects' },
   { name: 'Publications', route: '/publications' },
   // { name: "News", route: "/news" },
   // { name: 'About', route: '/about' },
