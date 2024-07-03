@@ -2,7 +2,7 @@ export const personalInfo = {
   name: 'Junde Liu',
   profilePicture: '/profile.png', //optional
   role: 'PostDoc',
-  university: 'University of Göttingen',
+  university: ' University of Göttingen',
   universityWebsite: 'https://www.uni-goettingen.de/en/580823.html',
   socialMedia: [
     { name: 'Email', url: 'mailto:liujunde@iphy.ac.cn' },
