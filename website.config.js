@@ -1,9 +1,9 @@
 export const personalInfo = {
   name: 'Junde Liu',
   profilePicture: '/profile.png', //optional
-  role: 'PhD',
-  university: 'Institute of Physics, CAS',
-  universityWebsite: 'https://ex7.iphy.ac.cn',
+  role: 'PostDoc',
+  university: ' University of Göttingen',
+  universityWebsite: 'https://www.uni-goettingen.de/en/580823.html',
   socialMedia: [
     { name: 'Email', url: 'mailto:liujunde@iphy.ac.cn' },
     { name: 'ORCID', url: 'https://orcid.org/my-orcid?orcid=0000-0003-4872-7738' },
@@ -27,7 +27,7 @@ export const navigations = [
 
 export const homepageSection = {
   AboutSection: true,
-  NewsSection: true,
+  // NewsSection: true,
   // SelectedPublicationsSection: true,
   // ProjectSection: true,
 };
