@@ -1,9 +1,9 @@
 export const personalInfo = {
-  name: 'Hiroshi Ishii',
+  name: 'Junde Liu',
   profilePicture: '/profile.jpg', //optional
-  role: 'Professor',
-  university: 'MIT Media Lab',
-  universityWebsite: 'https://www.zju.edu.cn/',
+  role: 'Graduate',
+  university: 'Institute of Physics, CAS',
+  universityWebsite: 'https://ex7.iphy.ac.cn',
   socialMedia: [
     { name: 'Email', url: 'https://linkedin.com' },
     { name: 'Twitter', url: 'https://twitter.com/anxndsgn' },
