@@ -27,7 +27,7 @@ export const navigations = [
 
 export const homepageSection = {
   AboutSection: true,
-  NewsSection: true,
+  // NewsSection: true,
   // SelectedPublicationsSection: true,
   // ProjectSection: true,
 };
