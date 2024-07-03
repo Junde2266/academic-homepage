@@ -1,19 +1,13 @@
 export const personalInfo = {
   name: 'Junde Liu',
-  profilePicture: '/profile.jpg', //optional
-  role: 'Graduate',
+  profilePicture: '/profile.png', //optional
+  role: 'PhD',
   university: 'Institute of Physics, CAS',
   universityWebsite: 'https://ex7.iphy.ac.cn',
   socialMedia: [
-    { name: 'Email', url: 'https://linkedin.com' },
-    { name: 'Twitter', url: 'https://twitter.com/anxndsgn' },
-    {
-      name: 'GitHub',
-      url: 'https://github.com/anxndsgn/academic-homepage-template',
-    },
-    { name: 'LinkedIn', url: 'https://linkedin.com' },
-    { name: 'ORCID', url: 'https://orcid' },
-    { name: 'Google Scholar', url: 'https://scholar.google.com' },
+    { name: 'Email', url: 'liujunde@iphy.ac.cn' },
+    { name: 'ORCID', url: 'https://orcid.org/my-orcid?orcid=0000-0003-4872-7738' },
+    { name: 'Google Scholar', url: 'https://scholar.google.com/citations?user=aX4Ju4cAAAAJ&hl=zh-CN' },
   ],
 };
 
