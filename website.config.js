@@ -5,7 +5,7 @@ export const personalInfo = {
   university: 'Institute of Physics, CAS',
   universityWebsite: 'https://ex7.iphy.ac.cn',
   socialMedia: [
-    { name: 'Email', url: 'liujunde@iphy.ac.cn' },
+    { name: 'Email', url: 'mailto:liujunde@iphy.ac.cn' },
     { name: 'ORCID', url: 'https://orcid.org/my-orcid?orcid=0000-0003-4872-7738' },
     { name: 'Google Scholar', url: 'https://scholar.google.com/citations?user=aX4Ju4cAAAAJ&hl=zh-CN' },
   ],
