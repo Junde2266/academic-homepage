@@ -1,6 +1,6 @@
 import bibtexParse from "bibtex-parse-js";
 
-export default function Publications({ bibtex, boldAuthor }) {
+export default function Publications({ bibtex }) {
   const parsed = bibtexParse.toJSON(bibtex);
 
   // Function to format author names
@@ -29,7 +29,7 @@ export default function Publications({ bibtex, boldAuthor }) {
               )}
             </h2>
             <div className="font-light text-neutral-600 dark:text-neutral-300">
-              <p>{formatAuthors(item.entryTags.author, boldAuthor)}</p>
+              <p>{formatAuthors(item.entryTags.author, "Junde Liu")}</p>
 
               <span className="pr-2 italic font-normal">
                 {item.entryTags.journal?.replace(/{|}/g, "") ||
