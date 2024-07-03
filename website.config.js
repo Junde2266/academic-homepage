@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: 'Junde Liu',
-  profilePicture: '/profile.jpg', //optional
+  profilePicture: '/profile.png', //optional
   role: 'Graduate',
   university: 'Institute of Physics, CAS',
   universityWebsite: 'https://ex7.iphy.ac.cn',
