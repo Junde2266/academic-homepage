@@ -5,7 +5,7 @@ export const personalInfo = {
   university: ' University of Göttingen',
   universityWebsite: 'https://www.uni-goettingen.de/en/580823.html',
   socialMedia: [
-    { name: 'Email', url: 'mailto:liujunde@iphy.ac.cn' },
+    { name: 'Email', url: 'mailto:liu.junde@uni-goettingen.de' },
     { name: 'ORCID', url: 'https://orcid.org/my-orcid?orcid=0000-0003-4872-7738' },
     { name: 'Google Scholar', url: 'https://scholar.google.com/citations?user=aX4Ju4cAAAAJ&hl=zh-CN' },
   ],
